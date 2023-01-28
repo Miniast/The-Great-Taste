@@ -58,7 +58,7 @@ OS: Windows10 Professonal 20H2
 
 **前端运行界面**
 
-![img](images\clip_image002.jpg)
+![img](images/clip_image002.jpg)
 
  
 

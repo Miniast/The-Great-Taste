@@ -58,65 +58,65 @@ OS: Windows10 Professonal 20H2
 
 **前端运行界面**
 
-![img](file:///./images/clip_image002.jpg)
+![img](file:\\\.\images\clip_image002.jpg)
 
  
 
-![img](file:///./images/clip_image006.jpg)
+![img](file:\\\.\images\clip_image006.jpg)
 
  
 
-![img](file:///./images/clip_image008.jpg)
+![img](file:\\\.\images\clip_image008.jpg)
 
  
 
-![img](file:///./images/clip_image010.jpg)
+![img](file:\\\.\images\clip_image010.jpg)
 
 注：简介可正常显示，图中暂未配置
 
  
 
-![img](file:///./images/clip_image012.jpg)
+![img](file:\\\.\images\clip_image012.jpg)
 
  
 
-![img](file:///./images/clip_image014.jpg)
+![img](file:\\\.\images\clip_image014.jpg)
 
  
 
-![img](file:///./images/clip_image016.jpg)
+![img](file:\\\.\images\clip_image016.jpg)
 
  
 
-![img](file:///./images/clip_image018.jpg)
+![img](file:\\\.\images\clip_image018.jpg)
 
  
 
-![img](file:///./images/clip_image020.jpg)
+![img](file:\\\.\images\clip_image020.jpg)
 
-![img](file:///./images/clip_image022.jpg)
+![img](file:\\\.\images\clip_image022.jpg)
 
 **后端模式**
 
 Flask – API架构，运行在默认5000端口上
 
-![img](file:///./images/clip_image024.jpg)
+![img](file:\\\.\images\clip_image024.jpg)
 
-![img](file:///./images/clip_image026.jpg)
+![img](file:\\\.\images\clip_image026.jpg)
 
 使用flask-cors实现跨域代理
 
 **数据库结构**
 
-![img](file:///./images/clip_image028.jpg)**user**
+![img](file:\\\.\images\clip_image028.jpg)**user**
 
-![img](file:///./images/clip_image030.jpg)
+![img](file:\\\.\images\clip_image030.jpg)
 
 **request**
 
-![img](file:///./images/clip_image032.jpg)
+![img](file:\\\.\images\clip_image032.jpg)
 
 **reply**
 
-![img](file:///./images/clip_image034.jpg)
+![img](file:\\\.\images\clip_image034.jpg)
 
